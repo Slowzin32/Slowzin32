@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gabriel Oliveira 
+# 👩🏻‍💻 Lucas Lucena 
 
 **`Desenvolvedor Front-end`**
 
