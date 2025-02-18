@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Gabriel Henrique Campos Oliveira, tenho 18 anos e sou natural da Paraíba. Concluí o ensino médio no HBE. Atualmente, estou cursando Ciencias da Computação na UNIESP, Sou apaixonado por tecnologia. Instagram, com o perfil chamado "[Gabrielgh__](https://www.instagram.com/gabrielgh.__/)".
+Me chamo Lucas Lucena Figueiredo De Carvalho, tenho 18 anos e sou natural da Paraíba. Concluí o ensino médio no HBE. Atualmente, estou cursando Ciencias da Computação na UNIESP, Sou apaixonado por tecnologia. Instagram, com o perfil chamado "[lucaslucena.c](https://www.instagram.com/lucaslucena.c/.__/)".
 
 <p align="left">
     <a href="https://github.com/OliveiraStifler">
