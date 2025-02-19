@@ -57,14 +57,20 @@ Me chamo Lucas Lucena Figueiredo De Carvalho, tenho 18 anos e sou natural da Par
 
 ### 📊 Estatísticas 
 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Lucas lucena&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
 <img 
-    align="left" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Lucas lucena&show_icons=true&theme=merko&include_all_comits=true&locate=pt-br" 
-    
- <img 
-    align="left" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github.com/anuraghazra/github-readme-stats"
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas lucena&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
