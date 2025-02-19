@@ -35,13 +35,7 @@ Me chamo Lucas Lucena Figueiredo De Carvalho, tenho 18 anos e sou natural da Par
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+ 
 />
 <img 
     align="left" 
