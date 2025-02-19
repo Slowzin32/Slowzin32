@@ -59,10 +59,12 @@ Me chamo Lucas Lucena Figueiredo De Carvalho, tenho 18 anos e sou natural da Par
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Lucas lucena&show_icons=true&theme=merko&include_all_comits=true&locate=pt-br" 
-
-
+    
+ <img 
+    align="left" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github.com/anuraghazra/github-readme-stats"
